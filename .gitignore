@@ -1,0 +1,7 @@
+# Folders
+_temp
+
+# Files in the root folder
+*.txt
+*.png
+*.jpg
